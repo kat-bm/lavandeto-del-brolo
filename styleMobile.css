@@ -328,11 +328,10 @@
 	}
 	
 	.timeline-thumbnails-container-top{
-		margin-left: 57px;
+		margin-left: 13.5%;
 		width: 150px;
-		min-height: 200px;
-		max-height: 200px;
-		margin-top: 20px;
+		height: 200px;
+		margin-top: 5%;
 		background-color: white;
 		font-family: candara;
 		text-align: center;
@@ -340,11 +339,10 @@
 	}
 	
 	.timeline-thumbnails-container-top- {
-		margin-left: 130px;
+		margin-left: 32%;
 		width: 150px;
-		min-height: 200px;
-		max-height: 200px;
-		margin-top: 20px;
+		height: 200px;
+		margin-top: 5%;
 		background-color: white;
 		font-family: candara;
 		text-align: center;
@@ -354,11 +352,11 @@
 	.mgnl15-4 {margin-left: 132px;}
 	
 	.timeline-thumbnails-container-bottom {
-		margin-right: 57px;
+		margin-right: 13.5%;
 		width: 150px;
-		min-height: 200px;
-		max-height: 200px;
-		margin-top: 20px;
+		height: 200px;
+		margin-top: 5%;
+		margin-bottom: 5%;
 		background-color: white;
 		font-family: candara;
 		text-align: center;

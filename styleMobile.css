@@ -327,10 +327,23 @@
 		  display: inline-block;
 	}
 	
-	.timeline-thumbnails-container-top, .timeline-thumbnails-container-top- {
-		margin-left: 54px;
+	.timeline-thumbnails-container-top{
+		margin-left: 57px;
 		width: 150px;
-		height: 200px;
+		min-height: 200px;
+		max-height: 200px;
+		margin-top: 20px;
+		background-color: white;
+		font-family: candara;
+		text-align: center;
+		display: inline-block;
+	}
+	
+	.timeline-thumbnails-container-top- {
+		margin-left: 130px;
+		width: 150px;
+		min-height: 200px;
+		max-height: 200px;
 		margin-top: 20px;
 		background-color: white;
 		font-family: candara;
@@ -341,9 +354,10 @@
 	.mgnl15-4 {margin-left: 132px;}
 	
 	.timeline-thumbnails-container-bottom {
-		margin-right: 54px;
+		margin-right: 57px;
 		width: 150px;
-		height: 200px;
+		min-height: 200px;
+		max-height: 200px;
 		margin-top: 20px;
 		background-color: white;
 		font-family: candara;
